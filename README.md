@@ -50,13 +50,13 @@ O repositório está organizado em pastas, uma para cada experimento realizado. 
 
 ## 🧪 Lista de Experimentos Desenvolvidos
 
-| Nº  | Tópico do Experimento             | Descrição Breve                                                               | Link para a Pasta                                                                 |
+| Nº  | Tópico do Experimento             | Descrição Breve                                                               |                                                                |
 | :-: | :-------------------------------- | :---------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- |
-| 01  | **Portas Lógicas Básicas** | Implementação e simulação de portas lógicas AND, OR, NOT, XOR, NAND e NOR.    | [Link](https://www.google.com/search?q=./%F0%9F%A7%AA%2520Experimento_01-Portas_Logicas)                                       |
-| 02  | **Circuitos Combinacionais I** | Projeto de um somador completo de 4 bits e um multiplexador 4x1.              | [Link](https://www.google.com/search?q=./%F0%9F%A7%AA%2520Experimento_02-Circuitos_Combinacionais_I)                            |
-| 03  | **Circuitos Combinacionais II** | Implementação de decodificadores BCD para 7 segmentos.                         | [Link](https://www.google.com/search?q=./%F0%9F%A7%AA%2520Experimento_03-Circuitos_Combinacionais_II)                           |
-| 04  | **Circuitos Sequenciais - Flip-Flops** | Construção e análise de Flip-Flops tipo D, T e JK.                            | [Link](https://www.google.com/search?q=./%F0%9F%A7%AA%2520Experimento_04-Circuitos_Sequenciais)                                |
-| 05  | **Máquinas de Estados Finitos** | Projeto de um detector de sequência "1101" utilizando FSM (Moore e Mealy).    | [Link](https://www.google.com/search?q=./%F0%9F%A7%AA%2520Experimento_05-Maquinas_de_Estados)                                 |                                  | |
+| 01  | **Portas Lógicas Básicas** | Implementação e simulação de portas lógicas AND, OR, NOT, XOR, NAND e NOR.                                           |
+| 02  | **Circuitos Combinacionais I** | Projeto de um somador completo de 4 bits e um multiplexador 4x1.                                        
+| 03  | **Circuitos Combinacionais II** | Implementação de decodificadores BCD para 7 segmentos.                                                   
+| 04  | **Circuitos Sequenciais - Flip-Flops** | Construção e análise de Flip-Flops tipo  JK e registradores de deslocamento.                                                         
+| 05  | **Máquinas de Estados Finitos** | Projeto de maquina de refrigerantes usando Moore.    
 
 -----
 
@@ -87,8 +87,7 @@ Para simular ou sintetizar qualquer um dos projetos, siga os passos abaixo:
 
 ## 👨‍💻 Autor
 
-  * **Bernardo Rizzone Sousa Vale de Araujo**
-  * **LinkedIn:** 
+  * **Bernardo Rizzone Sousa Vale de Araujo** 
   * **E-mail:** bernardorizzone98@gmail.com
 
 -----
